@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoshMallery/BranchOut-api.git"
+    "url": "git+https://github.com/Wperricone/BranchOut-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JoshMallery/BranchOut-api/issues"
+    "url": "https://github.com/Wperricone/BranchOut-api/issues"
   },
-  "homepage": "https://github.com/JoshMallery/BranchOut-api#readme",
+  "homepage": "https://github.com/Wperricone/BranchOut-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.1",
